@@ -13,6 +13,7 @@ Mean_X = np.mean(X)
 Mean_Y = np.mean(Y)
 
 m = len(X)
+print(m)
 
 numera = 0
 denami = 0
