@@ -1,0 +1,462 @@
+Name,Team,Number,Position,Age,Height,Weight
+Avery Bradley,Boston Celtics,0,PG,25,2-Jun,180
+Jae Crowder,Boston Celtics,99,SF,25,6-Jun,235
+John Holland,Boston Celtics,30,SG,27,5-Jun,205
+R.J. Hunter,Boston Celtics,28,SG,22,5-Jun,185
+Jonas Jerebko,Boston Celtics,8,PF,29,10-Jun,231
+Amir Johnson,Boston Celtics,90,PF,29,9-Jun,240
+Jordan Mickey,Boston Celtics,55,PF,21,8-Jun,235
+Kelly Olynyk,Boston Celtics,41,C,25,Jul-00,238
+Terry Rozier,Boston Celtics,12,PG,22,2-Jun,190
+Marcus Smart,Boston Celtics,36,PG,22,4-Jun,220
+Jared Sullinger,Boston Celtics,7,C,24,9-Jun,260
+Isaiah Thomas,Boston Celtics,4,PG,27,9-May,185
+Evan Turner,Boston Celtics,11,SG,27,7-Jun,220
+James Young,Boston Celtics,13,SG,20,6-Jun,215
+Tyler Zeller,Boston Celtics,44,C,26,Jul-00,253
+Bojan Bogdanovic,Brooklyn Nets,44,SG,27,8-Jun,216
+Markel Brown,Brooklyn Nets,22,SG,24,3-Jun,190
+Wayne Ellington,Brooklyn Nets,21,SG,28,4-Jun,200
+Rondae Hollis-Jefferson,Brooklyn Nets,24,SG,21,7-Jun,220
+Jarrett Jack,Brooklyn Nets,2,PG,32,3-Jun,200
+Sergey Karasev,Brooklyn Nets,10,SG,22,7-Jun,208
+Sean Kilpatrick,Brooklyn Nets,6,SG,26,4-Jun,219
+Shane Larkin,Brooklyn Nets,0,PG,23,11-May,175
+Brook Lopez,Brooklyn Nets,11,C,28,Jul-00,275
+Chris McCullough,Brooklyn Nets,1,PF,21,11-Jun,200
+Willie Reed,Brooklyn Nets,33,PF,26,10-Jun,220
+Thomas Robinson,Brooklyn Nets,41,PF,25,10-Jun,237
+Henry Sims,Brooklyn Nets,14,C,26,10-Jun,248
+Donald Sloan,Brooklyn Nets,15,PG,28,3-Jun,205
+Thaddeus Young,Brooklyn Nets,30,PF,27,8-Jun,221
+Arron Afflalo,New York Knicks,4,SG,30,5-Jun,210
+Lou Amundson,New York Knicks,17,PF,33,9-Jun,220
+Thanasis Antetokounmpo,New York Knicks,43,SF,23,7-Jun,205
+Carmelo Anthony,New York Knicks,7,SF,32,8-Jun,240
+Jose Calderon,New York Knicks,3,PG,34,3-Jun,200
+Cleanthony Early,New York Knicks,11,SF,25,8-Jun,210
+Langston Galloway,New York Knicks,2,SG,24,2-Jun,200
+Jerian Grant,New York Knicks,13,PG,23,4-Jun,195
+Robin Lopez,New York Knicks,8,C,28,Jul-00,255
+Kyle O'Quinn,New York Knicks,9,PF,26,10-Jun,250
+Kristaps Porzingis,New York Knicks,6,PF,20,3-Jul,240
+Kevin Seraphin,New York Knicks,1,C,26,10-Jun,278
+Lance Thomas,New York Knicks,42,SF,28,8-Jun,235
+Sasha Vujacic,New York Knicks,18,SG,32,7-Jun,195
+Derrick Williams,New York Knicks,23,PF,25,8-Jun,240
+Tony Wroten,New York Knicks,5,SG,23,6-Jun,205
+Elton Brand,Philadelphia 76ers,42,PF,37,9-Jun,254
+Isaiah Canaan,Philadelphia 76ers,0,PG,25,Jun-00,201
+Robert Covington,Philadelphia 76ers,33,SF,25,9-Jun,215
+Joel Embiid,Philadelphia 76ers,21,C,22,Jul-00,250
+Jerami Grant,Philadelphia 76ers,39,SF,22,8-Jun,210
+Richaun Holmes,Philadelphia 76ers,22,PF,22,10-Jun,245
+Carl Landry,Philadelphia 76ers,7,PF,32,9-Jun,248
+Kendall Marshall,Philadelphia 76ers,5,PG,24,4-Jun,200
+T.J. McConnell,Philadelphia 76ers,12,PG,24,2-Jun,200
+Nerlens Noel,Philadelphia 76ers,4,PF,22,11-Jun,228
+Jahlil Okafor,Philadelphia 76ers,8,C,20,11-Jun,275
+Ish Smith,Philadelphia 76ers,1,PG,27,Jun-00,175
+Nik Stauskas,Philadelphia 76ers,11,SG,22,6-Jun,205
+Hollis Thompson,Philadelphia 76ers,31,SG,25,8-Jun,206
+Christian Wood,Philadelphia 76ers,35,PF,20,11-Jun,220
+Bismack Biyombo,Toronto Raptors,8,C,23,9-Jun,245
+Bruno Caboclo,Toronto Raptors,20,SF,20,9-Jun,205
+DeMarre Carroll,Toronto Raptors,5,SF,29,8-Jun,212
+DeMar DeRozan,Toronto Raptors,10,SG,26,7-Jun,220
+James Johnson,Toronto Raptors,3,PF,29,9-Jun,250
+Cory Joseph,Toronto Raptors,6,PG,24,3-Jun,190
+Kyle Lowry,Toronto Raptors,7,PG,30,Jun-00,205
+Lucas Nogueira,Toronto Raptors,92,C,23,Jul-00,220
+Patrick Patterson,Toronto Raptors,54,PF,27,9-Jun,235
+Norman Powell,Toronto Raptors,24,SG,23,4-Jun,215
+Terrence Ross,Toronto Raptors,31,SF,25,7-Jun,195
+Luis Scola,Toronto Raptors,4,PF,36,9-Jun,240
+Jason Thompson,Toronto Raptors,1,PF,29,11-Jun,250
+Jonas Valanciunas,Toronto Raptors,17,C,24,Jul-00,255
+Delon Wright,Toronto Raptors,55,PG,24,5-Jun,190
+Leandro Barbosa,Golden State Warriors,19,SG,33,3-Jun,194
+Harrison Barnes,Golden State Warriors,40,SF,24,8-Jun,225
+Andrew Bogut,Golden State Warriors,12,C,31,Jul-00,260
+Ian Clark,Golden State Warriors,21,SG,25,3-Jun,175
+Stephen Curry,Golden State Warriors,30,PG,28,3-Jun,190
+Festus Ezeli,Golden State Warriors,31,C,26,11-Jun,265
+Draymond Green,Golden State Warriors,23,PF,26,7-Jun,230
+Andre Iguodala,Golden State Warriors,9,SF,32,6-Jun,215
+Shaun Livingston,Golden State Warriors,34,PG,30,7-Jun,192
+Kevon Looney,Golden State Warriors,36,SF,20,9-Jun,220
+James Michael McAdoo,Golden State Warriors,20,SF,23,9-Jun,240
+Brandon Rush,Golden State Warriors,4,SF,30,6-Jun,220
+Marreese Speights,Golden State Warriors,5,C,28,10-Jun,255
+Klay Thompson,Golden State Warriors,11,SG,26,7-Jun,215
+Anderson Varejao,Golden State Warriors,18,PF,33,11-Jun,273
+Cole Aldrich,Los Angeles Clippers,45,C,27,11-Jun,250
+Jeff Ayres,Los Angeles Clippers,19,PF,29,9-Jun,250
+Jamal Crawford,Los Angeles Clippers,11,SG,36,5-Jun,195
+Branden Dawson,Los Angeles Clippers,22,SF,23,6-Jun,225
+Jeff Green,Los Angeles Clippers,8,SF,29,9-Jun,235
+Blake Griffin,Los Angeles Clippers,32,PF,27,10-Jun,251
+Wesley Johnson,Los Angeles Clippers,33,SF,28,7-Jun,215
+DeAndre Jordan,Los Angeles Clippers,6,C,27,11-Jun,265
+Luc Richard Mbah a Moute,Los Angeles Clippers,12,PF,29,8-Jun,230
+Chris Paul,Los Angeles Clippers,3,PG,31,Jun-00,175
+Paul Pierce,Los Angeles Clippers,34,SF,38,7-Jun,235
+Pablo Prigioni,Los Angeles Clippers,9,PG,39,3-Jun,185
+JJ Redick,Los Angeles Clippers,4,SG,31,4-Jun,190
+Austin Rivers,Los Angeles Clippers,25,PG,23,4-Jun,200
+C.J. Wilcox,Los Angeles Clippers,30,SG,25,5-Jun,195
+Brandon Bass,Los Angeles Lakers,2,PF,31,8-Jun,250
+Tarik Black,Los Angeles Lakers,28,C,24,9-Jun,250
+Anthony Brown,Los Angeles Lakers,3,SF,23,7-Jun,210
+Kobe Bryant,Los Angeles Lakers,24,SF,37,6-Jun,212
+Jordan Clarkson,Los Angeles Lakers,6,PG,24,5-Jun,194
+Roy Hibbert,Los Angeles Lakers,17,C,29,2-Jul,270
+Marcelo Huertas,Los Angeles Lakers,9,PG,33,3-Jun,200
+Ryan Kelly,Los Angeles Lakers,4,PF,25,11-Jun,230
+Larry Nance Jr.,Los Angeles Lakers,7,PF,23,9-Jun,230
+Julius Randle,Los Angeles Lakers,30,PF,21,9-Jun,250
+D'Angelo Russell,Los Angeles Lakers,1,PG,20,5-Jun,195
+Robert Sacre,Los Angeles Lakers,50,C,27,Jul-00,270
+Louis Williams,Los Angeles Lakers,23,SG,29,1-Jun,175
+Metta World Peace,Los Angeles Lakers,37,SF,36,7-Jun,260
+Nick Young,Los Angeles Lakers,0,SF,31,7-Jun,210
+Eric Bledsoe,Phoenix Suns,2,PG,26,1-Jun,190
+Devin Booker,Phoenix Suns,1,SG,19,6-Jun,206
+Chase Budinger,Phoenix Suns,10,SF,28,7-Jun,209
+Tyson Chandler,Phoenix Suns,4,C,33,1-Jul,240
+Archie Goodwin,Phoenix Suns,20,SG,21,5-Jun,200
+John Jenkins,Phoenix Suns,23,SG,25,4-Jun,215
+Brandon Knight,Phoenix Suns,3,PG,24,3-Jun,189
+Alex Len,Phoenix Suns,21,C,22,1-Jul,260
+Jon Leuer,Phoenix Suns,30,PF,27,10-Jun,228
+Phil Pressey,Phoenix Suns,25,PG,25,11-May,175
+Ronnie Price,Phoenix Suns,14,PG,32,2-Jun,190
+Mirza Teletovic,Phoenix Suns,35,PF,30,9-Jun,242
+P.J. Tucker,Phoenix Suns,17,SF,31,6-Jun,245
+T.J. Warren,Phoenix Suns,12,SF,22,8-Jun,230
+Alan Williams,Phoenix Suns,15,C,23,8-Jun,260
+Quincy Acy,Sacramento Kings,13,SF,25,7-Jun,240
+James Anderson,Sacramento Kings,5,SG,27,6-Jun,213
+Marco Belinelli,Sacramento Kings,3,SG,30,5-Jun,210
+Caron Butler,Sacramento Kings,31,SF,36,7-Jun,228
+Omri Casspi,Sacramento Kings,18,SF,27,9-Jun,225
+Willie Cauley-Stein,Sacramento Kings,0,C,22,Jul-00,240
+Darren Collison,Sacramento Kings,7,PG,28,Jun-00,175
+DeMarcus Cousins,Sacramento Kings,15,C,25,11-Jun,270
+Seth Curry,Sacramento Kings,30,SG,25,2-Jun,185
+Duje Dukan,Sacramento Kings,26,PF,24,9-Jun,220
+Rudy Gay,Sacramento Kings,8,SF,29,8-Jun,230
+Kosta Koufos,Sacramento Kings,41,C,27,Jul-00,265
+Ben McLemore,Sacramento Kings,23,SG,23,5-Jun,195
+Eric Moreland,Sacramento Kings,25,PF,24,10-Jun,238
+Rajon Rondo,Sacramento Kings,9,PG,30,1-Jun,186
+Cameron Bairstow,Chicago Bulls,41,PF,25,9-Jun,250
+Aaron Brooks,Chicago Bulls,0,PG,31,Jun-00,161
+Jimmy Butler,Chicago Bulls,21,SG,26,7-Jun,220
+Mike Dunleavy,Chicago Bulls,34,SG,35,9-Jun,230
+Cristiano Felicio,Chicago Bulls,6,PF,23,10-Jun,275
+Pau Gasol,Chicago Bulls,16,C,35,Jul-00,250
+Taj Gibson,Chicago Bulls,22,PF,30,9-Jun,225
+Justin Holiday,Chicago Bulls,7,SG,27,6-Jun,185
+Doug McDermott,Chicago Bulls,3,SF,24,8-Jun,225
+Nikola Mirotic,Chicago Bulls,44,PF,25,10-Jun,220
+E'Twaun Moore,Chicago Bulls,55,SG,27,4-Jun,191
+Joakim Noah,Chicago Bulls,13,C,31,11-Jun,232
+Bobby Portis,Chicago Bulls,5,PF,21,11-Jun,230
+Derrick Rose,Chicago Bulls,1,PG,27,3-Jun,190
+Tony Snell,Chicago Bulls,20,SF,24,7-Jun,200
+Matthew Dellavedova,Cleveland Cavaliers,8,PG,25,4-Jun,198
+Channing Frye,Cleveland Cavaliers,9,PF,33,11-Jun,255
+Kyrie Irving,Cleveland Cavaliers,2,PG,24,3-Jun,193
+LeBron James,Cleveland Cavaliers,23,SF,31,8-Jun,250
+Richard Jefferson,Cleveland Cavaliers,24,SF,35,7-Jun,233
+Dahntay Jones,Cleveland Cavaliers,30,SG,35,6-Jun,225
+James Jones,Cleveland Cavaliers,1,SG,35,8-Jun,218
+Sasha Kaun,Cleveland Cavaliers,14,C,31,11-Jun,260
+Kevin Love,Cleveland Cavaliers,0,PF,27,10-Jun,251
+Jordan McRae,Cleveland Cavaliers,12,SG,25,5-Jun,179
+Timofey Mozgov,Cleveland Cavaliers,20,C,29,1-Jul,275
+Iman Shumpert,Cleveland Cavaliers,4,SG,25,5-Jun,220
+J.R. Smith,Cleveland Cavaliers,5,SG,30,6-Jun,225
+Tristan Thompson,Cleveland Cavaliers,13,C,25,9-Jun,238
+Mo Williams,Cleveland Cavaliers,52,PG,33,1-Jun,198
+Joel Anthony,Detroit Pistons,50,C,33,9-Jun,245
+Aron Baynes,Detroit Pistons,12,C,29,10-Jun,260
+Steve Blake,Detroit Pistons,22,PG,36,3-Jun,172
+Lorenzo Brown,Detroit Pistons,17,PG,25,5-Jun,189
+Reggie Bullock,Detroit Pistons,25,SF,25,7-Jun,205
+Kentavious Caldwell-Pope,Detroit Pistons,5,SG,23,5-Jun,205
+Spencer Dinwiddie,Detroit Pistons,8,PG,23,6-Jun,200
+Andre Drummond,Detroit Pistons,0,C,22,11-Jun,279
+Tobias Harris,Detroit Pistons,34,SF,23,9-Jun,235
+Darrun Hilliard,Detroit Pistons,6,SF,23,6-Jun,205
+Reggie Jackson,Detroit Pistons,1,PG,26,3-Jun,208
+Stanley Johnson,Detroit Pistons,3,SF,20,7-Jun,245
+Jodie Meeks,Detroit Pistons,20,SG,28,4-Jun,210
+Marcus Morris,Detroit Pistons,13,PF,26,9-Jun,235
+Anthony Tolliver,Detroit Pistons,43,PF,31,8-Jun,240
+Lavoy Allen,Indiana Pacers,5,PF,27,9-Jun,255
+Rakeem Christmas,Indiana Pacers,25,PF,24,9-Jun,250
+Monta Ellis,Indiana Pacers,11,SG,30,3-Jun,185
+Paul George,Indiana Pacers,13,SF,26,9-Jun,220
+George Hill,Indiana Pacers,3,PG,30,3-Jun,188
+Jordan Hill,Indiana Pacers,27,C,28,10-Jun,235
+Solomon Hill,Indiana Pacers,44,SF,25,7-Jun,225
+Ty Lawson,Indiana Pacers,10,PG,28,11-May,195
+Ian Mahinmi,Indiana Pacers,28,C,29,11-Jun,250
+C.J. Miles,Indiana Pacers,0,SF,29,6-Jun,231
+Glenn Robinson III,Indiana Pacers,40,SG,22,7-Jun,222
+Rodney Stuckey,Indiana Pacers,2,PG,30,5-Jun,205
+Myles Turner,Indiana Pacers,33,PF,20,11-Jun,243
+Shayne Whittington,Indiana Pacers,42,PF,25,11-Jun,250
+Joe Young,Indiana Pacers,1,PG,23,2-Jun,180
+Giannis Antetokounmpo,Milwaukee Bucks,34,SF,21,11-Jun,222
+Jerryd Bayless,Milwaukee Bucks,19,PG,27,3-Jun,200
+Michael Carter-Williams,Milwaukee Bucks,5,PG,24,6-Jun,190
+Jared Cunningham,Milwaukee Bucks,9,SG,25,4-Jun,195
+Tyler Ennis,Milwaukee Bucks,11,PG,21,3-Jun,194
+John Henson,Milwaukee Bucks,31,PF,25,11-Jun,229
+Damien Inglis,Milwaukee Bucks,17,SF,21,8-Jun,246
+O.J. Mayo,Milwaukee Bucks,3,SG,28,5-Jun,210
+Khris Middleton,Milwaukee Bucks,22,SG,24,8-Jun,234
+Greg Monroe,Milwaukee Bucks,15,C,26,11-Jun,265
+Steve Novak,Milwaukee Bucks,6,SF,32,10-Jun,225
+Johnny O'Bryant III,Milwaukee Bucks,77,PF,23,9-Jun,257
+Jabari Parker,Milwaukee Bucks,12,PF,21,8-Jun,250
+Miles Plumlee,Milwaukee Bucks,18,C,27,11-Jun,249
+Greivis Vasquez,Milwaukee Bucks,21,PG,29,6-Jun,217
+Rashad Vaughn,Milwaukee Bucks,20,SG,19,6-Jun,202
+Justin Anderson,Dallas Mavericks,1,SG,22,6-Jun,228
+J.J. Barea,Dallas Mavericks,5,PG,31,Jun-00,185
+Jeremy Evans,Dallas Mavericks,21,SF,28,9-Jun,200
+Raymond Felton,Dallas Mavericks,2,PG,31,1-Jun,205
+Devin Harris,Dallas Mavericks,34,PG,33,3-Jun,185
+David Lee,Dallas Mavericks,42,PF,33,9-Jun,245
+Wesley Matthews,Dallas Mavericks,23,SG,29,5-Jun,220
+JaVale McGee,Dallas Mavericks,11,C,28,Jul-00,270
+Salah Mejri,Dallas Mavericks,50,C,29,2-Jul,245
+Dirk Nowitzki,Dallas Mavericks,41,PF,37,Jul-00,245
+Zaza Pachulia,Dallas Mavericks,27,C,32,11-Jun,275
+Chandler Parsons,Dallas Mavericks,25,SF,27,10-Jun,230
+Dwight Powell,Dallas Mavericks,7,PF,24,11-Jun,240
+Charlie Villanueva,Dallas Mavericks,3,PF,31,11-Jun,232
+Deron Williams,Dallas Mavericks,8,PG,31,3-Jun,200
+Trevor Ariza,Houston Rockets,1,SF,30,8-Jun,215
+Michael Beasley,Houston Rockets,8,SF,27,10-Jun,235
+Patrick Beverley,Houston Rockets,2,PG,27,1-Jun,185
+Corey Brewer,Houston Rockets,33,SG,30,9-Jun,186
+Clint Capela,Houston Rockets,15,PF,22,10-Jun,240
+Sam Dekker,Houston Rockets,7,SF,22,9-Jun,230
+Andrew Goudelock,Houston Rockets,0,PG,27,3-Jun,200
+James Harden,Houston Rockets,13,SG,26,5-Jun,220
+Montrezl Harrell,Houston Rockets,35,PF,22,8-Jun,240
+Dwight Howard,Houston Rockets,12,C,30,11-Jun,265
+Terrence Jones,Houston Rockets,6,PF,24,9-Jun,252
+K.J. McDaniels,Houston Rockets,32,SG,23,6-Jun,205
+Donatas Motiejunas,Houston Rockets,20,PF,25,Jul-00,222
+Josh Smith,Houston Rockets,5,C,30,9-Jun,225
+Jason Terry,Houston Rockets,31,SG,38,2-Jun,185
+Jordan Adams,Memphis Grizzlies,3,SG,21,5-Jun,209
+Tony Allen,Memphis Grizzlies,9,SG,34,4-Jun,213
+Chris Andersen,Memphis Grizzlies,7,PF,37,10-Jun,245
+Matt Barnes,Memphis Grizzlies,22,SF,36,7-Jun,226
+Vince Carter,Memphis Grizzlies,15,SG,39,6-Jun,220
+Mike Conley,Memphis Grizzlies,11,PG,28,1-Jun,175
+Bryce Cotton,Memphis Grizzlies,8,PG,23,1-Jun,165
+Jordan Farmar,Memphis Grizzlies,4,PG,29,2-Jun,180
+Marc Gasol,Memphis Grizzlies,33,C,31,1-Jul,255
+JaMychal Green,Memphis Grizzlies,0,PF,25,9-Jun,227
+P.J. Hairston,Memphis Grizzlies,19,SF,23,6-Jun,230
+Jarell Martin,Memphis Grizzlies,10,PF,22,10-Jun,239
+Ray McCallum,Memphis Grizzlies,5,PG,24,3-Jun,190
+Xavier Munford,Memphis Grizzlies,14,PG,24,3-Jun,180
+Zach Randolph,Memphis Grizzlies,50,PF,34,9-Jun,260
+Lance Stephenson,Memphis Grizzlies,1,SF,25,5-Jun,230
+Alex Stepheson,Memphis Grizzlies,35,PF,28,10-Jun,270
+Brandan Wright,Memphis Grizzlies,34,PF,28,10-Jun,210
+Alexis Ajinca,New Orleans Pelicans,42,C,28,2-Jul,248
+Ryan Anderson,New Orleans Pelicans,33,PF,28,10-Jun,240
+Omer Asik,New Orleans Pelicans,3,C,29,Jul-00,255
+Luke Babbitt,New Orleans Pelicans,8,SF,26,9-Jun,225
+Norris Cole,New Orleans Pelicans,30,PG,27,2-Jun,175
+Dante Cunningham,New Orleans Pelicans,44,PF,29,8-Jun,230
+Anthony Davis,New Orleans Pelicans,23,PF,23,10-Jun,253
+Bryce Dejean-Jones,New Orleans Pelicans,31,SG,23,6-Jun,203
+Toney Douglas,New Orleans Pelicans,16,PG,30,2-Jun,195
+James Ennis,New Orleans Pelicans,4,SF,25,7-Jun,210
+Tyreke Evans,New Orleans Pelicans,1,SG,26,6-Jun,220
+Tim Frazier,New Orleans Pelicans,2,PG,25,1-Jun,170
+Alonzo Gee,New Orleans Pelicans,15,SF,29,6-Jun,225
+Eric Gordon,New Orleans Pelicans,10,SG,27,4-Jun,215
+Jordan Hamilton,New Orleans Pelicans,25,SG,25,7-Jun,220
+Jrue Holiday,New Orleans Pelicans,11,PG,25,4-Jun,205
+Orlando Johnson,New Orleans Pelicans,0,SG,27,5-Jun,220
+Kendrick Perkins,New Orleans Pelicans,5,C,31,10-Jun,270
+Quincy Pondexter,New Orleans Pelicans,20,SF,28,7-Jun,220
+LaMarcus Aldridge,San Antonio Spurs,12,PF,30,11-Jun,240
+Kyle Anderson,San Antonio Spurs,1,SF,22,9-Jun,230
+Matt Bonner,San Antonio Spurs,15,C,36,10-Jun,235
+Boris Diaw,San Antonio Spurs,33,C,34,8-Jun,250
+Tim Duncan,San Antonio Spurs,21,C,40,11-Jun,250
+Manu Ginobili,San Antonio Spurs,20,SG,38,6-Jun,205
+Danny Green,San Antonio Spurs,14,SG,28,6-Jun,215
+Kawhi Leonard,San Antonio Spurs,2,SF,24,7-Jun,230
+Boban Marjanovic,San Antonio Spurs,40,C,27,3-Jul,290
+Kevin Martin,San Antonio Spurs,23,SG,33,7-Jun,199
+Andre Miller,San Antonio Spurs,24,PG,40,3-Jun,200
+Patty Mills,San Antonio Spurs,8,PG,27,Jun-00,185
+Tony Parker,San Antonio Spurs,9,PG,34,2-Jun,185
+Jonathon Simmons,San Antonio Spurs,17,SG,26,6-Jun,195
+David West,San Antonio Spurs,30,PF,35,9-Jun,250
+Kent Bazemore,Atlanta Hawks,24,SF,26,5-Jun,201
+Tim Hardaway Jr.,Atlanta Hawks,10,SG,24,6-Jun,205
+Kirk Hinrich,Atlanta Hawks,12,SG,35,4-Jun,190
+Al Horford,Atlanta Hawks,15,C,30,10-Jun,245
+Kris Humphries,Atlanta Hawks,43,PF,31,9-Jun,235
+Kyle Korver,Atlanta Hawks,26,SG,35,7-Jun,212
+Paul Millsap,Atlanta Hawks,4,PF,31,8-Jun,246
+Mike Muscala,Atlanta Hawks,31,PF,24,11-Jun,240
+Lamar Patterson,Atlanta Hawks,13,SG,24,5-Jun,225
+Dennis Schroder,Atlanta Hawks,17,PG,22,1-Jun,172
+Mike Scott,Atlanta Hawks,32,PF,27,8-Jun,237
+Thabo Sefolosha,Atlanta Hawks,25,SF,32,7-Jun,220
+Tiago Splitter,Atlanta Hawks,11,C,31,11-Jun,245
+Walter Tavares,Atlanta Hawks,22,C,24,3-Jul,260
+Jeff Teague,Atlanta Hawks,0,PG,27,2-Jun,186
+Nicolas Batum,Charlotte Hornets,5,SG,27,8-Jun,200
+Troy Daniels,Charlotte Hornets,30,SG,24,4-Jun,205
+Jorge Gutierrez,Charlotte Hornets,12,PG,27,3-Jun,189
+Tyler Hansbrough,Charlotte Hornets,50,PF,30,9-Jun,250
+Aaron Harrison,Charlotte Hornets,9,SG,21,6-Jun,210
+Spencer Hawes,Charlotte Hornets,0,PF,28,1-Jul,245
+Al Jefferson,Charlotte Hornets,25,C,31,10-Jun,289
+Frank Kaminsky III,Charlotte Hornets,44,C,23,Jul-00,240
+Michael Kidd-Gilchrist,Charlotte Hornets,14,SF,22,7-Jun,232
+Jeremy Lamb,Charlotte Hornets,3,SG,24,5-Jun,185
+Courtney Lee,Charlotte Hornets,1,SG,30,5-Jun,200
+Jeremy Lin,Charlotte Hornets,7,PG,27,3-Jun,200
+Kemba Walker,Charlotte Hornets,15,PG,26,1-Jun,184
+Marvin Williams,Charlotte Hornets,2,PF,29,9-Jun,237
+Cody Zeller,Charlotte Hornets,40,C,23,Jul-00,240
+Chris Bosh,Miami Heat,1,PF,32,11-Jun,235
+Luol Deng,Miami Heat,9,SF,31,9-Jun,220
+Goran Dragic,Miami Heat,7,PG,30,3-Jun,190
+Gerald Green,Miami Heat,14,SF,30,7-Jun,205
+Udonis Haslem,Miami Heat,40,PF,36,8-Jun,235
+Joe Johnson,Miami Heat,2,SF,34,7-Jun,240
+Tyler Johnson,Miami Heat,8,SG,24,4-Jun,186
+Josh McRoberts,Miami Heat,4,PF,29,10-Jun,240
+Josh Richardson,Miami Heat,0,SG,22,6-Jun,200
+Amar'e Stoudemire,Miami Heat,5,PF,33,10-Jun,245
+Dwyane Wade,Miami Heat,3,SG,34,4-Jun,220
+Briante Weber,Miami Heat,12,PG,23,2-Jun,165
+Hassan Whiteside,Miami Heat,21,C,26,Jul-00,265
+Justise Winslow,Miami Heat,20,SF,20,7-Jun,225
+Dorell Wright,Miami Heat,11,SF,30,9-Jun,205
+Dewayne Dedmon,Orlando Magic,3,C,26,Jul-00,245
+Evan Fournier,Orlando Magic,10,SG,23,7-Jun,205
+Aaron Gordon,Orlando Magic,0,PF,20,9-Jun,220
+Mario Hezonja,Orlando Magic,23,SG,21,8-Jun,218
+Ersan Ilyasova,Orlando Magic,7,PF,29,10-Jun,235
+Brandon Jennings,Orlando Magic,55,PG,26,1-Jun,169
+Devyn Marble,Orlando Magic,11,SF,23,6-Jun,200
+Shabazz Napier,Orlando Magic,13,PG,24,1-Jun,175
+Andrew Nicholson,Orlando Magic,44,PF,26,9-Jun,250
+Victor Oladipo,Orlando Magic,5,SG,24,4-Jun,210
+Elfrid Payton,Orlando Magic,4,PG,22,4-Jun,185
+Jason Smith,Orlando Magic,14,PF,30,Jul-00,240
+Nikola Vucevic,Orlando Magic,9,C,25,Jul-00,260
+C.J. Watson,Orlando Magic,32,PG,32,2-Jun,175
+Alan Anderson,Washington Wizards,6,SG,33,6-Jun,220
+Bradley Beal,Washington Wizards,3,SG,22,5-Jun,207
+Jared Dudley,Washington Wizards,1,SF,30,7-Jun,225
+Jarell Eddie,Washington Wizards,8,SG,24,7-Jun,218
+Drew Gooden,Washington Wizards,90,PF,34,10-Jun,250
+Marcin Gortat,Washington Wizards,13,C,32,11-Jun,240
+JJ Hickson,Washington Wizards,21,C,27,9-Jun,242
+Nene Hilario,Washington Wizards,42,C,33,11-Jun,250
+Markieff Morris,Washington Wizards,5,PF,26,10-Jun,245
+Kelly Oubre Jr.,Washington Wizards,12,SF,20,7-Jun,205
+Otto Porter Jr.,Washington Wizards,22,SF,23,8-Jun,198
+Ramon Sessions,Washington Wizards,7,PG,30,3-Jun,190
+Garrett Temple,Washington Wizards,17,SG,30,6-Jun,195
+Marcus Thornton,Washington Wizards,15,SF,29,4-Jun,205
+John Wall,Washington Wizards,2,PG,25,4-Jun,195
+Darrell Arthur,Denver Nuggets,0,PF,28,9-Jun,235
+D.J. Augustin,Denver Nuggets,12,PG,28,Jun-00,183
+Will Barton,Denver Nuggets,5,SF,25,6-Jun,175
+Wilson Chandler,Denver Nuggets,21,SF,29,8-Jun,225
+Kenneth Faried,Denver Nuggets,35,PF,26,8-Jun,228
+Danilo Gallinari,Denver Nuggets,8,SF,27,10-Jun,225
+Gary Harris,Denver Nuggets,14,SG,21,4-Jun,210
+Nikola Jokic,Denver Nuggets,15,C,21,10-Jun,250
+Joffrey Lauvergne,Denver Nuggets,77,C,24,11-Jun,220
+Mike Miller,Denver Nuggets,3,SG,36,8-Jun,218
+Emmanuel Mudiay,Denver Nuggets,0,PG,20,5-Jun,200
+Jameer Nelson,Denver Nuggets,1,PG,34,Jun-00,190
+Jusuf Nurkic,Denver Nuggets,23,C,21,Jul-00,280
+JaKarr Sampson,Denver Nuggets,9,SG,23,9-Jun,214
+Axel Toupane,Denver Nuggets,6,SG,23,7-Jun,210
+Nemanja Bjelica,Minnesota Timberwolves,88,PF,28,10-Jun,240
+Gorgui Dieng,Minnesota Timberwolves,5,C,26,11-Jun,241
+Kevin Garnett,Minnesota Timberwolves,21,PF,40,11-Jun,240
+Tyus Jones,Minnesota Timberwolves,1,PG,20,2-Jun,195
+Zach LaVine,Minnesota Timberwolves,8,PG,21,5-Jun,189
+Shabazz Muhammad,Minnesota Timberwolves,15,SF,23,6-Jun,223
+Adreian Payne,Minnesota Timberwolves,33,PF,25,10-Jun,237
+Nikola Pekovic,Minnesota Timberwolves,14,C,30,11-Jun,307
+Tayshaun Prince,Minnesota Timberwolves,12,SF,36,9-Jun,212
+Ricky Rubio,Minnesota Timberwolves,9,PG,25,4-Jun,194
+Damjan Rudez,Minnesota Timberwolves,10,SF,29,9-Jun,230
+Greg Smith,Minnesota Timberwolves,4,PF,25,10-Jun,250
+Karl-Anthony Towns,Minnesota Timberwolves,32,C,20,Jul-00,244
+Andrew Wiggins,Minnesota Timberwolves,22,SG,21,8-Jun,199
+Steven Adams,Oklahoma City Thunder,12,C,22,Jul-00,255
+Nick Collison,Oklahoma City Thunder,4,PF,35,10-Jun,255
+Kevin Durant,Oklahoma City Thunder,35,SF,27,9-Jun,240
+Randy Foye,Oklahoma City Thunder,6,SG,32,4-Jun,213
+Josh Huestis,Oklahoma City Thunder,34,SF,24,7-Jun,230
+Serge Ibaka,Oklahoma City Thunder,9,PF,26,10-Jun,245
+Enes Kanter,Oklahoma City Thunder,11,C,24,11-Jun,245
+Mitch McGary,Oklahoma City Thunder,33,PF,24,10-Jun,255
+Nazr Mohammed,Oklahoma City Thunder,13,C,38,10-Jun,250
+Anthony Morrow,Oklahoma City Thunder,2,SG,30,5-Jun,210
+Cameron Payne,Oklahoma City Thunder,22,PG,21,3-Jun,185
+Andre Roberson,Oklahoma City Thunder,21,SG,24,7-Jun,210
+Kyle Singler,Oklahoma City Thunder,5,SF,28,8-Jun,228
+Dion Waiters,Oklahoma City Thunder,3,SG,24,4-Jun,220
+Russell Westbrook,Oklahoma City Thunder,0,PG,27,3-Jun,200
+Cliff Alexander,Portland Trail Blazers,34,PF,20,8-Jun,240
+Al-Farouq Aminu,Portland Trail Blazers,8,SF,25,9-Jun,215
+Pat Connaughton,Portland Trail Blazers,5,SG,23,5-Jun,206
+Allen Crabbe,Portland Trail Blazers,23,SG,24,6-Jun,210
+Ed Davis,Portland Trail Blazers,17,C,27,10-Jun,240
+Maurice Harkless,Portland Trail Blazers,4,SF,23,9-Jun,215
+Gerald Henderson,Portland Trail Blazers,9,SG,28,5-Jun,215
+Chris Kaman,Portland Trail Blazers,35,C,34,Jul-00,265
+Meyers Leonard,Portland Trail Blazers,11,PF,24,1-Jul,245
+Damian Lillard,Portland Trail Blazers,0,PG,25,3-Jun,195
+C.J. McCollum,Portland Trail Blazers,3,SG,24,4-Jun,200
+Luis Montero,Portland Trail Blazers,44,SG,23,7-Jun,185
+Mason Plumlee,Portland Trail Blazers,24,C,26,11-Jun,235
+Brian Roberts,Portland Trail Blazers,2,PG,30,1-Jun,173
+Noah Vonleh,Portland Trail Blazers,21,PF,20,9-Jun,240
+Trevor Booker,Utah Jazz,33,PF,28,8-Jun,228
+Trey Burke,Utah Jazz,3,PG,23,1-Jun,191
+Alec Burks,Utah Jazz,10,SG,24,6-Jun,214
+Dante Exum,Utah Jazz,11,PG,20,6-Jun,190
+Derrick Favors,Utah Jazz,15,PF,24,10-Jun,265
+Rudy Gobert,Utah Jazz,27,C,23,1-Jul,245
+Gordon Hayward,Utah Jazz,20,SF,26,8-Jun,226
+Rodney Hood,Utah Jazz,5,SG,23,8-Jun,206
+Joe Ingles,Utah Jazz,2,SF,28,8-Jun,226
+Chris Johnson,Utah Jazz,23,SF,26,6-Jun,206
+Trey Lyles,Utah Jazz,41,PF,20,10-Jun,234
+Shelvin Mack,Utah Jazz,8,PG,26,3-Jun,203
+Raul Neto,Utah Jazz,25,PG,24,1-Jun,179
+Tibor Pleiss,Utah Jazz,21,C,26,3-Jul,256
+Jeff Withey,Utah Jazz,24,C,26,Jul-00,231
+Shelvin Mack,Utah Jazz,8,PG,26,3-Jun,203
+Raul Neto,Utah Jazz,25,PG,24,1-Jun,179
+Tibor Pleiss,Utah Jazz,21,C,26,3-Jul,256
+Jeff Withey,Utah Jazz,24,C,26,Jul-00,231
